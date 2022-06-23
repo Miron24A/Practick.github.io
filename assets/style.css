@@ -1,0 +1,160 @@
+body{
+	margin: 0;
+	min-width: 1200px;
+}
+.header{
+	height: 45em;
+	background-color: gray; 
+
+}
+.logo{
+	position: absolute;
+	margin-top: 1em;
+	font-size: 22px;
+}
+.toolbar{
+	position: absolute;
+	margin-left: 50em;
+	margin-top: 2em;
+}
+.main-menu{
+	position: absolute;
+	text-align: center;
+	margin-left: 40em;
+	margin-top: 15em;
+}
+.button{
+	font-family: 'Source Sans Pro', sans-serif;
+    background-color: #87CEFA;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+}
+.button-main-download{
+	position: absolute;
+	margin-left: 55em;
+	margin-top: 22em;	
+}
+.bottom-menu{
+	height: 25em;
+}
+.bottom-text{
+	margin-left: 52em;
+	margin-top: 3em;
+}
+.buttons-bottom{
+	margin-left: 40em;
+	margin-top: 5em;
+}
+.text-buttons-bottom{
+	margin-left: 40em;
+	margin-top: 1em;
+}
+.more-info-detection{
+	height: 35em;
+	background-color: gray;
+
+}
+.logo-info{
+	position: absolute;
+	margin-left: 52em;
+	margin-top: 3em;
+}
+.logo-info1{
+	position: absolute;
+	margin-left: 27em;
+	margin-top: 5em;
+}
+.logo-info2{
+	position: absolute;
+	margin-left: 27em;
+	margin-top: 6.5em;
+}
+.logo-info3{
+	position: absolute;
+	margin-left: 27em;
+	margin-top: 8em;
+}
+.logo-info4{
+	position: absolute;
+	margin-left: 27em;
+	margin-top: 9em;
+}
+.logo-info5{
+	position: absolute;
+	margin-left: 27em;
+	margin-top: 21em;
+}
+.bottom-about{
+	height: 40em;
+	background-color: white;
+
+}
+.bottom-about-text{
+	margin-left: 20em;
+	margin-top: 3em;
+}
+.bottom{
+
+	height: 30em;
+	background-color: gray;
+}
+.bottom-end{
+	position: absolute;
+	margin-left: 30em;
+	margin-top: 5em;
+}
+.licence-bottom{
+	position: absolute;
+	margin-left: 50em;
+	margin-top: 30em;
+}
+.main-text{
+	position: absolute;
+	margin-left: 55em;
+	margin-top: 10em;
+}
+h2{
+	margin-right: 20em;
+}
+.bottom-menu1{
+	display: ;
+	height: 125em;
+}
+.first-test{
+	position: absolute;
+	margin-left: 40em;
+	margin-top: 5em;
+}
+.virus-test{
+	position: absolute;
+	margin-left: 40em;
+	margin-top: 30em;
+}
+.virus-text{
+	position: absolute;
+	margin-top: 52em;
+	margin-left: 12em;
+}
+.usc-test{
+	position: absolute;
+	margin-top: 58em;
+	margin-left: 42em;
+	font-family: 'Source Sans Pro', sans-serif;
+}
+.cleaning{
+	position: absolute;
+	margin-top: 80em;
+	margin-left: 42em;
+	font-family: 'Source Sans Pro', sans-serif;
+}
+.defence{
+	position: absolute;
+	margin-top: 103em;
+	margin-left: 40em;
+	font-family: 'Source Sans Pro', sans-serif;
+}
